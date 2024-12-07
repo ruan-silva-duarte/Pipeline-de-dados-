@@ -1,0 +1,104 @@
+[{
+    "id": 123,
+    "nome": "João Silva",
+    "idade": 28,
+    "email": "joao.silva@example.com",
+    "endereco": {
+      "rua": "Rua das Flores",
+      "numero": 45,
+      "cidade": "São Paulo",
+      "estado": "SP",
+      "cep": "01234-567"
+    },
+    "telefone": "(11) 98765-4321",
+    "habilidades": [
+      "JavaScript",
+      "PHP",
+      "MySQL"
+    ],
+    "experiencia": [
+      {
+        "empresa": "Tech Solutions",
+        "cargo": "Desenvolvedor Frontend",
+        "inicio": "2020-01-15",
+        "fim": "2022-06-30"
+      },
+      {
+        "empresa": "Web Innovators",
+        "cargo": "Desenvolvedor Full Stack",
+        "inicio": "2022-07-01",
+        "fim": "2024-12-01"
+      }
+    ],
+    "status": "ativo"
+  },
+  {
+    "id": 456,
+    "nome": "Maria Oliveira",
+    "idade": 34,
+    "email": "maria.oliveira@example.com",
+    "endereco": {
+      "rua": "Avenida Central",
+      "numero": 123,
+      "cidade": "Rio de Janeiro",
+      "estado": "RJ",
+      "cep": "21000-001"
+    },
+    "telefone": "(21) 99876-5432",
+    "habilidades": [
+      "Python",
+      "Django",
+      "PostgreSQL"
+    ],
+    "experiencia": [
+      {
+        "empresa": "Code Masters",
+        "cargo": "Analista de Sistemas",
+        "inicio": "2018-03-01",
+        "fim": "2021-08-15"
+      },
+      {
+        "empresa": "Cloud Tech",
+        "cargo": "Engenheira de Software",
+        "inicio": "2021-09-01",
+        "fim": "2024-12-01"
+      }
+    ],
+    "status": "ativo"
+  },
+  {
+    "id": 789,
+    "nome": "Carlos Almeida",
+    "idade": 41,
+    "email": "carlos.almeida@example.com",
+    "endereco": {
+      "rua": "Rua do Sol",
+      "numero": 78,
+      "cidade": "Belo Horizonte",
+      "estado": "MG",
+      "cep": "31000-987"
+    },
+    "telefone": "(31) 91234-5678",
+    "habilidades": [
+      "Java",
+      "Spring Boot",
+      "MongoDB"
+    ],
+    "experiencia": [
+      {
+        "empresa": "Smart Devs",
+        "cargo": "Desenvolvedor Backend",
+        "inicio": "2015-05-10",
+        "fim": "2019-12-20"
+      },
+      {
+        "empresa": "Next Level IT",
+        "cargo": "Arquiteto de Software",
+        "inicio": "2020-01-15",
+        "fim": "2024-12-01"
+      }
+    ],
+    "status": "ativo"
+  }    
+]
+  
